@@ -1,0 +1,3 @@
+vim是Linux环境下一款功能强大、高度可定制的文本编辑工具，类似于Windows下面的source insight、sublime、notepad。
+VI是visual interface的缩写，即可视化接口。vim 即 vi IMproved，在 vi 的基础上做了很多改进，如：增加了多级撤销、多窗口操作、崩溃后
+也可以恢复、增加了稳定性、关键字自动补全、上下文自动补全等功能。
